@@ -25,4 +25,4 @@ const Button = ({ children, onClick }: PropsType) => {
   )
 }
 
-export {Button}
+export { Button };
